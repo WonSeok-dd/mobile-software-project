@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MapsActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/background_yellow">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bmttf"
+            android:text="상품 상세 정보"
+            android:textSize="50sp"
+            android:padding="10dp"
+            android:background="@drawable/linearlayoutborder"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:layout_marginBottom="30dp"
+            android:weightSum="10"
+            android:gravity="center">
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/image_vp"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="9"/>
+
+            <me.relex.circleindicator.CircleIndicator
+                android:id="@+id/image_indicator"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                app:ci_drawable="@drawable/black_indicator"
+                app:ci_height="7dp"
+                app:ci_width="7dp"
+                app:ci_margin="4dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/select_item_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/bmttf"
+                android:gravity="center"
+                android:text="상품명"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:textColor="@color/textView_yellow"/>
+
+            <TextView
+                android:id="@+id/select_item_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/bmttf"
+                android:gravity="center"
+                android:text="상품가격"
+                android:textSize="30sp"
+                android:textColor="@color/textView_yellow"/>
+
+            <TextView
+                android:id="@+id/select_item_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/bmttf"
+                android:gravity="center"
+                android:text="상품설명"
+                android:textColor="@color/textView_orange"
+                android:textSize="20sp"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal">
+
+                <TextView
+                    android:id="@+id/select_item_show_url"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:fontFamily="@font/bmttf"
+                    android:gravity="center"
+                    android:text="상품URL"
+                    android:textSize="15sp"/>
+
+                <TextView
+                    android:id="@+id/select_item_url"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/linearlayoutborder"
+                    android:fontFamily="@font/bmttf"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="▶ 클릭시 웹사이트 이동"
+                    android:textSize="20sp"
+                    android:textStyle="italic"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

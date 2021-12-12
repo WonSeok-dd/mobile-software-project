@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/background_yellow">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bmttf"
+        android:text="회원가입"
+        android:textSize="50sp"
+        android:padding="10dp"
+        android:background="@drawable/linearlayoutborder"/>
+
+    <EditText
+        android:id="@+id/join_id_editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:fontFamily="@font/bmttf"
+        android:hint="아이디" />
+
+    <EditText
+        android:id="@+id/join_password_editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:fontFamily="@font/bmttf"
+        android:hint="비밀번호" />
+
+    <EditText
+        android:id="@+id/join_name_editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:fontFamily="@font/bmttf"
+        android:hint="이름"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/yes_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/bmttf"
+            android:background="@drawable/buttonclick"
+            android:text="확인" />
+
+        <Button
+            android:id="@+id/no_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/bmttf"
+            android:background="@drawable/buttonclick"
+            android:text="초기화" />
+    </LinearLayout>
+
+</LinearLayout>

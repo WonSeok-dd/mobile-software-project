@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="image1_url1">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/161179357096597762.jpg</string>
+    <string name="image2_url1">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1611792747_109278_8.jpg</string>
+    <string name="image3_url1">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1611792748_109278_10.jpg</string>
+    <string name="url1">https://ohou.se/productions/673574/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description1">가구회사: 삼익가구\n호텔스타일의 세로형 아트월</string>
+
+    <string name="image1_url2">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/1561009129383_PoP5tE.jpg</string>
+    <string name="image2_url2">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/156714283376291147.jpg</string>
+    <string name="image3_url2">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/157905660111783842.jpg</string>
+    <string name="url2">https://ohou.se/productions/111131/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description2">가구회사: 알파침대\n섬세한 프레임➕세심한 수납공간</string>
+
+    <string name="image1_url3">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/159185611543049579.jpg</string>
+    <string name="image2_url3">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/159185612295156918.jpg</string>
+    <string name="image3_url3">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/159185612857229438.jpg</string>
+    <string name="url3">https://ohou.se/productions/362306/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description3">가구회사: 하포스침대\nLED조명,콘센트 기본내장</string>
+
+    <string name="image1_url4">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/162305695279058163.jpg</string>
+    <string name="image2_url4">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/162259280072521621.jpg</string>
+    <string name="image3_url4">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/162259282176815806.jpg</string>
+    <string name="url4">https://ohou.se/productions/858887/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description4">가구회사: 라자가구\n모던스타일➕평상형 프레임</string>
+
+    <string name="image1_url5">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/163282099137691673.jpg</string>
+    <string name="image2_url5">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/163099038744165604.jpg</string>
+    <string name="image3_url5">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/163099046845597512.jpg</string>
+    <string name="url5">https://ohou.se/productions/375727/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description5">가구회사: 리샘\n실용적인 수납력➕LED ON/OFF기능</string>
+
+    <string name="image1_url6">https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/163790482276007396.png</string>
+    <string name="image2_url6">https://image.ohou.se/i/bucketplace-v2-development/uploads/openapi/4929544/1637736672852.jpg</string>
+    <string name="image3_url6">https://image.ohou.se/i/bucketplace-v2-development/uploads/openapi/4929544/1637736636689.jpg</string>
+    <string name="url6">https://ohou.se/productions/1111615/selling?affect_type=CategoryMDpicks</string>
+    <string name="description6">가구회사: 까사미아\n심플하고 세련된 디자인</string>
+
+    <string name="image1_url7">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/158320065995789137.jpg</string>
+    <string name="image2_url7">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/15650448036783_dA03B.jpg</string>
+    <string name="image3_url7">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/157864625963694921.jpg</string>
+    <string name="url7">https://ohou.se/productions/229566/selling?affect_type=CategoryMDpicks</string>
+    <string name="description7">가구회사: 까사미아\n따뜻한 내추럴 감성</string>
+
+    <string name="image1_url8">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/160585590319639170.jpg</string>
+    <string name="image2_url8">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/160585590349163765.jpg</string>
+    <string name="image3_url8">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/160585590394831320.jpg</string>
+    <string name="url8">https://ohou.se/productions/579003/selling?affect_type=CategoryMDpicks</string>
+    <string name="description8">가구회사: 한샘\n원목소재➕더 깊어진 수납력</string>
+
+    <string name="image1_url9">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/1566267706_102521_19.jpg</string>
+    <string name="image2_url9">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1566267706_102521_7.jpg</string>
+    <string name="image3_url9">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1566267707_102521_9.jpg</string>
+    <string name="url9">https://ohou.se/productions/166961/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description9">가구회사: e스마트\n흔들림없는 견고함</string>
+
+    <string name="image1_url10">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/1546261775404_Pl9NKsGwJC.jpg</string>
+    <string name="image2_url10">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1546240190648_cXVzGt.jpg</string>
+    <string name="image3_url10">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1546240195438_Kgc.jpg</string>
+    <string name="url10">https://ohou.se/productions/82562/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description10">가구회사: 블루밍홈\n실용성👍, 활용성👍</string>
+
+    <string name="image1_url11">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/1504162323519_lFuXtSZz.jpg</string>
+    <string name="image2_url11">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1504162344177_ZVn7oR9.jpg</string>
+    <string name="image3_url11">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1504162346759_oOa.jpg</string>
+    <string name="url11">https://ohou.se/productions/29087/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description11">가구회사: 시디즈\nT50의 편안함에 쾌적함을 더하다</string>
+
+    <string name="image1_url12">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/1593572941_102549_1.jpg</string>
+    <string name="image2_url12">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1593572941_102549_7.jpg</string>
+    <string name="image3_url12">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1593572942_102549_8.jpg</string>
+    <string name="url12">https://ohou.se/productions/391752/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description12">가구회사: 시디즈\n국민 초등학생 의자 NO.1</string>
+
+    <string name="image1_url13">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/162086844836384008.jpg</string>
+    <string name="image2_url13">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/162086844856416381.jpg</string>
+    <string name="image3_url13">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/162086844931819254.jpg</string>
+    <string name="url13">https://ohou.se/productions/828713/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description13">가구회사: 메종드꼼마\n채도를 낮춘 컬러➕라운드 디자인</string>
+
+
+    <string name="image1_url14">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/1613365939_100486_1.jpg</string>
+    <string name="image2_url14">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1613365940_100486_10.jpg</string>
+    <string name="image3_url14">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/sub_images/1613365940_100486_9.jpg</string>
+    <string name="url14">https://ohou.se/productions/693353/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description14">가구회사: 제닉스\n게이밍체어의 기준을 바꾸다</string>
+
+    <string name="image1_url15">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/161594310608424381.jpg</string>
+    <string name="image2_url15">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/161594298529229808.jpg</string>
+    <string name="image3_url15">https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/images/161594299756629946.jpg</string>
+    <string name="url15">https://ohou.se/productions/561586/selling?affect_type=ProductCategoryIndex</string>
+    <string name="description15">가구회사: 한샘\n모던한 디자인➕편안한 착석감</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
